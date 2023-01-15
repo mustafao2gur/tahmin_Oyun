@@ -1,5 +1,5 @@
 let secNumber = Math.trunc(Math.random() * 1000) + 1;
-console.log(secNumber);
+// console.log(secNumber);
 let sum = 0;
 let score = 10;
 let bod = document.querySelector("body");
